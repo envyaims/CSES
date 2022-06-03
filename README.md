@@ -1,5 +1,5 @@
 # Competitive-Programming
 
-AC solutions to popular cp sites.
+AC solutions [CSES](https://cses.fi/problemset/list/)
 
 last updated 6/2/22
